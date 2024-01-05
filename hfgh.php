@@ -9,7 +9,7 @@ session_start();
 // Echo session variables that were set on previous page
 echo "Favorite color is " . $_SESSION["fa22vcolodr"] . ".<br>";
 echo "Favorite animal is " . $_SESSION["favanimal"] . ".";
-echo "Favorite animal is " . $_SESSION["favanimal"] . ".2222";
+echo "Favorite animal is " . $_SESSION["favanimal"] . "7.2222";
 ?>
 
 <?php
