@@ -1,7 +1,7 @@
 <?php
 session_start();
 ?>
-<!DOCTYP html>
+<!DOCTP html>
 <html>
 <body>
 
