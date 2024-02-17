@@ -1,4 +1,4 @@
-<?php
+<?p
 session_start();
 ?>
 <!DOCTP html>
