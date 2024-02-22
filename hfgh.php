@@ -1,5 +1,5 @@
 <?p
-session_start();
+sessin_start();
 ?>
 <!DOCTP html>
 <html>
