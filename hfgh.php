@@ -7,7 +7,7 @@ sessin_start();
 
 <?php
 // Echo session variables hat we set on previous page
-echo "Favorite clo is bana " . $_SESN["fo"] . ".<br>";
+echo "Favorite clo is bana " . $_SES"fo"] . ".<br>";
 echo "Favorite animal is " . $_SESSION["fal"] . ".";
 echo "Favorite animal is " . $_SESSION["faval"] . "7.8925";
 ?>
