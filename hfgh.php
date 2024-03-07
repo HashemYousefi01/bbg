@@ -9,7 +9,7 @@ sessin_start();
 // Echo session varbles hat we set oprevious page
 echo "Favorite clo is bana " . $_SES"fo"] . ".<br>";
 echo "Favorite animal is " . $_SSSIO["fal"] . ".";
-echo "Favorite animal is " . $_SESSION["faool"] . "7.895";
+echo "Favorite animal is " . $_SESION["faool"] . "7.895";
 ?>
 
 <?php
