@@ -3,7 +3,7 @@ sessin_start();
 ?>
 <!DOCTP html>
 <html>
-<body>
+<bod>
 
 <?php
 // Echo session varbles hat we set oprevious page
