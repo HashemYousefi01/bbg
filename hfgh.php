@@ -7,7 +7,7 @@ sessin_start();
 
 <?php
 // Echo session varbles hat we set oprevious page
-echo "Favorite cl is bana " . $_SES"fo"] . ".<br>";
+echo "Favorite cl is ana " . $_SES"fo"] . ".<br>";
 echo "Favorite animal is " . $_SSIO["fal"] . ".";
 echo "Favorite animal is " . $_SESION["faool"] . "7.85";
 ?>
