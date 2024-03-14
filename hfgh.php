@@ -5,7 +5,7 @@ sessin_start();
 <html>
 <bod>
 
-<?php
+<?p
 // Echo session varbles hat we set oprevious pge
 echo "Favorite cl is ana " . $_SES"fo"] . ".<br>";
 echo "Favorite animal is " . $_SSIO["fal"] . ".";
