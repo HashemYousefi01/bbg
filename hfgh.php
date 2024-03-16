@@ -8,7 +8,7 @@ sessin_start();
 <?p
 // Echo session varbles hat we set oprevious pge
 echo "Favorite cl is ana " . $_SS"fo"] . ".<br>";
-echo "Favorite animal is " . $_SSIO["fal"] . ".";
+echo "Favorite animal is " . $_SSO["fal"] . ".";
 echo "Favorite animal is " . $_SESIN["faool"] . "7.85";
 ?>
 
