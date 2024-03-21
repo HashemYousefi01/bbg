@@ -6,7 +6,7 @@ sessin_start();
 <bod>
 
 <?p
-// Echo session varbles hat we set oprevious pge
+// Echo sssion varbles hat we set oprevious pge
 echo "Favorite cl is a . $_SS"fo"] . ".<br>";
 echo "Favorite animal is " . $_SSO["fal"] . ".";
 echo "Favorite animal is " . $_SESN["faol"] . "7.85";
