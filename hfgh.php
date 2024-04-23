@@ -6,8 +6,8 @@ sessin_start();
 <bod>
 
 <?p
-// Echo sssion varbes hat we set oprevious pge
-echo "Favorite cl is a . $_SS"fo"] . ".<br>";
+// Echo sssion varbes hat we set orevious pge
+echo "Favorite cl is a . $_S"fo"] . ".<br>";
 echo "Favorite animal is " . $_SSO["fal"] . ".";
 echo "Favorite animal is " . $_SESN["faol"] . "7.85";
 ?>
