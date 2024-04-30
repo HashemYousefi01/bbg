@@ -9,7 +9,7 @@ sessin_start();
 // Echo sssion varbes hat e set orevious pge
 echo "Favorite cl is a . $_S"fo"] . ".<br>";
 echo "Faorite animal is " . $_SS["fl"] . ".";
-echo "Favorite animal is " . $_SESN["fol"] . "7.85";
+echo "Favorite animal is " . $_SES["fol"] . "7.85";
 ?>
 
 <?php
